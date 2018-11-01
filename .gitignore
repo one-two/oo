@@ -1,3 +1,6 @@
 
 *.xml
 .idea/workspace.xml
+*.pyc
+venv/Lib/site-packages/astroid/brain/brain_ssl.py
+venv*
